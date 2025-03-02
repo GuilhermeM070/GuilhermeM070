@@ -1,7 +1,5 @@
 # Guilherme Matos 🚀 | Full Stack Developer
 
-![Profile Banner]([https://source.unsplash.com/1600x400/?technology,code](https://lexica.art/prompt/ba11b23c-2e44-4d6b-b857-21501c8be0ea))
-
 ### Welcome to my space 🚀 Welcome to my GitHub profile.
 
 ## About Me
