@@ -1,77 +1,59 @@
-# 👨‍💻 Guilherme Matos | IA Programmer
+# Guilherme Matos 🚀 | Full Stack Developer
 
-![Banner](https://user-images.githubusercontent.com/your-banner-image.png)
+![Profile Banner](https://source.unsplash.com/1600x400/?technology,code)
 
-## 🔥 Guilherme Matos here!  
-Welcome to my space 🚀 I'm Guilherme Matos
+### Welcome to my space 🚀 Welcome to my GitHub profile.
 
----
+## About Me
+- 💻 Full Stack Developer specialized in **Java, Python, and JavaScript**.
+- 🚀 Experienced in **Spring Boot, Angular, and REST API development**.
+- 🔬 Passionate about **Machine Learning and Deep Learning**.
+- 🏗 Skilled in **design patterns, scalable architectures, and high-performance applications**.
+- 📚 Always learning and improving my skills!
 
-## 📝 About Me
+## 🛠️ Tech Stack
 
-- 🎓 **Engenheiro da Computação** | Conclusão: Fevereiro de 2025.  
-- 🧠 **Interesse em IA e Cibersegurança** | Explorando Machine Learning e Segurança Digital.  
-- 💻 **Full-Stack Developer** | Especializado em Backend com Java, Python e Spring Boot.  
-- 🏋️ **Jiu-Jitsu & Musculação** | Disciplina dentro e fora do código.  
-- 📖 **Fã de Ficção Científica** | Inspirado por Asimov e mundos intergalácticos.  
-- 🌱 **Aprendizado Contínuo** | Bootcamps e cursos avançados em tecnologia.
+### **Languages & Frameworks**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-green?style=for-the-badge)
 
-## 🚀 Languages & Tools
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
----
+### **Tools & DevOps**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
 ## 📊 GitHub Stats
+![Guilherme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeMatos&show_icons=true&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guimatos070&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guimatos070&layout=compact&theme=dark)
+## 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMatos&layout=compact&theme=tokyonight)
 
----
-
-## 🎯 Tech Stack
-
-![Backend](https://img.shields.io/badge/Backend-Java%20%7C%20Python%20%7C%20Node.js-blue)
-![Frontend](https://img.shields.io/badge/Frontend-Angular%20%7C%20React-red)
-![Database](https://img.shields.io/badge/Database-PostgreSQL%20%7C%20MongoDB-yellow)
-
----
-
-## 📌 Top Contributed Repo
-
-[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=guimatos070&repo=repo-name&theme=dark)](https://github.com/guimatos070/repo-name)
-
----
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=GuilhermeMatos&theme=darkhub)
 
 ## 💡 Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-📜 *"The best way to predict the future is to invent it."* — Alan Kay
-
----
+## 📬 Contact Me
+[![Email](https://img.shields.io/badge/Email-guimatos070%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guimatos070@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme%20Matos-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/guilherme-matos-413400200)
 
 ## ☕ Support Me
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/guimatos070)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20My%20Work-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/guilhermematos)
 
 ---
 
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-matos-413400200)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:guimatos070@gmail.com)
-
-🚀 *Sempre aberto a colaborações e novos projetos!*
+🔥 **Let’s build something amazing together!** 🚀
 
 
