@@ -9,6 +9,9 @@
 - 🚀 Experienced in **Spring Boot, Angular, and REST API development**.
 - 🔬 Passionate about **Machine Learning and Deep Learning**.
 - 🏗 Skilled in **design patterns, scalable architectures, and high-performance applications**.
+- 🏋️ Jiu-Jitsu & Bodybuilding | Discipline inside and outside the code.
+- 📖 Science Fiction Fan | Inspired by Asimov and intergalactic worlds.
+- 🌱 Continuous Learning | Bootcamps and advanced technology courses.
 - 📚 Always learning and improving my skills!
 
 ## 🛠️ Tech Stack
