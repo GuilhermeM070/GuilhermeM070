@@ -1,6 +1,6 @@
 # Guilherme Matos 🚀 | Full Stack Developer
 
-![Profile Banner](https://source.unsplash.com/1600x400/?technology,code)
+![Profile Banner]([https://source.unsplash.com/1600x400/?technology,code](https://lexica.art/prompt/ba11b23c-2e44-4d6b-b857-21501c8be0ea))
 
 ### Welcome to my space 🚀 Welcome to my GitHub profile.
 
@@ -51,9 +51,6 @@
 ## 📬 Contact Me
 [![Email](https://img.shields.io/badge/Email-guimatos070%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guimatos070@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme%20Matos-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/guilherme-matos-413400200)
-
-## ☕ Support Me
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20My%20Work-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/guilhermematos)
 
 ---
 
