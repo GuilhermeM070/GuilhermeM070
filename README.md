@@ -1,3 +1,10 @@
+<p align="center" style="background-color: #282c34; color: white; padding: 20px;">
+  <h1>🚀 Guilherme Matos | Full Stack Developer 🚀</h1>
+  <p>🌱 Continuous Learning | 📚 Always improving | 💻 Java, Python, JavaScript Enthusiast</p>
+  <p>Let's create something amazing! 💡</p>
+</p>
+
+
 <h1 align="center">Guilherme Matos 🚀 | Full Stack Developer</h1>
 
 <p align="center">
