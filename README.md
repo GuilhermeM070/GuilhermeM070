@@ -1,3 +1,52 @@
+## 🏆 **GitHub Trophies** 🏅
+
+<p align="center">
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=GuilhermeM070&theme=darkhub&column=4&margin-w=15&margin-h=15&no-frame=true)
+</p>
+
+---
+
+## 📂 **Repositórios em Destaque** 🔥
+
+Aqui estão alguns dos meus repositórios mais relevantes e que geram engajamento:
+
+<p align="center">
+  <!-- Repositório Projetos Python DIO -->
+  <a href="https://github.com/GuilhermeM070/Projetos-Python-DIO._" target="_blank">
+    <img src="https://img.shields.io/badge/Projetos--Python--DIO-blue?style=for-the-badge&logo=python&logoColor=white" alt="Projetos Python DIO"/>
+  </a>
+  <!-- Repositório Deep Learning -->
+  <a href="https://github.com/GuilhermeM070/Deep-Learning" target="_blank">
+    <img src="https://img.shields.io/badge/Deep--Learning-red?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"/>
+  </a>
+  <!-- Repositório Projeto Java DIO -->
+  <a href="https://github.com/GuilhermeM070/ProjetoJavaDIO._" target="_blank">
+    <img src="https://img.shields.io/badge/Projeto--Java--DIO-orange?style=for-the-badge&logo=java&logoColor=white" alt="Projeto Java DIO"/>
+  </a>
+  <!-- Repositório Desafio Felipao -->
+  <a href="https://github.com/GuilhermeM070/desafio-felipao" target="_blank">
+    <img src="https://img.shields.io/badge/Desafio--Felipao-yellow?style=for-the-badge&logo=java&logoColor=white" alt="Desafio Felipao"/>
+  </a>
+  <!-- Repositório Dio Lab Open Source -->
+  <a href="https://github.com/GuilhermeM070/dio-lab-open-source" target="_blank">
+    <img src="https://img.shields.io/badge/Dio--Lab--Open--Source-green?style=for-the-badge&logo=git&logoColor=white" alt="Dio Lab Open Source"/>
+  </a>
+  <!-- Repositório Design Patterns II -->
+  <a href="https://github.com/GuilhermeM070/Design-Patterns-II" target="_blank">
+    <img src="https://img.shields.io/badge/Design--Patterns--II-purple?style=for-the-badge&logo=java&logoColor=white" alt="Design Patterns II"/>
+  </a>
+  <!-- Repositório TGID -->
+  <a href="https://github.com/GuilhermeM070/TGID" target="_blank">
+    <img src="https://img.shields.io/badge/TGID-orange?style=for-the-badge&logo=python&logoColor=white" alt="TGID"/>
+  </a>
+</p>
+
+---
+
+🔍 **Explore meus repositórios para mais projetos e contribuições!**
+
+
+
 <h1 align="center">Guilherme Matos 🚀 | Full Stack Developer</h1>
 
 <p align="center">
@@ -51,33 +100,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven">
-</p>
-
-## 📂 **Repositórios em Destaque** 🔥
-
-Aqui estão alguns dos meus repositórios mais relevantes e que geram engajamento:
-
-<p align="center">
-  <!-- Repositório Projetos Python DIO -->
-  <a href="https://github.com/GuilhermeM070/Projetos-Python-DIO._" target="_blank">
-    <img src="https://img.shields.io/badge/Projetos--Python--DIO-blue?style=for-the-badge&logo=python&logoColor=white" alt="Projetos Python DIO"/>
-  </a>
-  <!-- Repositório Deep Learning -->
-  <a href="https://github.com/GuilhermeM070/Deep-Learning" target="_blank">
-    <img src="https://img.shields.io/badge/Deep--Learning-red?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"/>
-  </a>
-  <!-- Repositório Projeto Java DIO -->
-  <a href="https://github.com/GuilhermeM070/ProjetoJavaDIO._" target="_blank">
-    <img src="https://img.shields.io/badge/Projeto--Java--DIO-orange?style=for-the-badge&logo=java&logoColor=white" alt="Projeto Java DIO"/>
-  </a>
-  <!-- Repositório Desafio Felipao -->
-  <a href="https://github.com/GuilhermeM070/desafio-felipao" target="_blank">
-    <img src="https://img.shields.io/badge/Desafio--Felipao-yellow?style=for-the-badge&logo=java&logoColor=white" alt="Desafio Felipao"/>
-  </a>
-  <!-- Repositório Design Patterns II -->
-  <a href="https://github.com/GuilhermeM070/Design-Patterns-II" target="_blank">
-    <img src="https://img.shields.io/badge/Design--Patterns--II-purple?style=for-the-badge&logo=java&logoColor=white" alt="Design Patterns II"/>
-  </a>
 </p>
 
 ---
