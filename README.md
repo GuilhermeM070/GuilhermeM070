@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/T2qXZt3.jpg" alt="Banner" width="100%" />
-</p>
-
 <h1 align="center">Guilherme Matos 🚀 | Full Stack Developer</h1>
 
 <p align="center">
