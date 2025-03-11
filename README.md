@@ -66,7 +66,7 @@ Aqui estão alguns dos meus repositórios mais relevantes e que geram engajament
   </a>
   <!-- Repositório Deep Learning -->
   <a href="https://github.com/GuilhermeM070/Deep-Learning" target="_blank">
-    <img src="https://img.shields.io/badge/Deep Learning-red?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"/>
+    <img src="https://img.shields.io/badge/Deep Learning-00AEEF?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"/>
   </a>
   <!-- Repositório Projeto Java DIO -->
   <a href="https://github.com/GuilhermeM070/ProjetoJavaDIO" target="_blank">
