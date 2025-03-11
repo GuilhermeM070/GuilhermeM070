@@ -70,7 +70,7 @@ Aqui estão alguns dos meus repositórios mais relevantes e que geram engajament
   </a>
   <!-- Repositório Projeto Java DIO -->
   <a href="https://github.com/GuilhermeM070/ProjetoJavaDIO" target="_blank">
-    <img src="https://img.shields.io/badge/Projeto Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Projeto Java"/>
+    <img src="https://img.shields.io/badge/Projetos Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Projeto Java"/>
   </a>
   <!-- Repositório Artigo sobre Web3 e Blockchain -->
   <a href="https://github.com/GuilhermeM070/Artigo_Neural_Networks_Blockchain" target="_blank">
