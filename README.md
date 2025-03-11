@@ -70,7 +70,7 @@ Aqui estão alguns dos meus repositórios mais relevantes e que geram engajament
   </a>
   <!-- Repositório Projeto Java DIO -->
   <a href="https://github.com/GuilhermeM070/ProjetoJavaDIO" target="_blank">
-    <img src="https://img.shields.io/badge/Projeto Java-black?style=for-the-badge&logo=java&logoColor=white" alt="Projeto Java"/>
+    <img src="https://img.shields.io/badge/Projeto Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Projeto Java"/>
   </a>
   <!-- Repositório Artigo sobre Web3 e Blockchain -->
   <a href="https://github.com/GuilhermeM070/Artigo_Neural_Networks_Blockchain" target="_blank">
@@ -78,7 +78,7 @@ Aqui estão alguns dos meus repositórios mais relevantes e que geram engajament
   </a>
   <!-- Repositório Projeto Node.js ChatGPT -->
   <a href="https://github.com/GuilhermeM070/Projeto_Node.js_ChatGPT" target="_blank">
-    <img src="https://img.shields.io/badge/Projeto Node.js ChatGPT-blue?style=for-the-badge&logo=javascript&logoColor=white" alt="Projeto Node.js ChatGPT"/>
+    <img src="https://img.shields.io/badge/Projeto Node.js ChatGPT-green?style=for-the-badge&logo=javascript&logoColor=white" alt="Projeto Node.js ChatGPT"/>
   </a>
   <!-- Repositório Design Patterns -->
   <a href="https://github.com/GuilhermeM070/Design_Patterns" target="_blank">
@@ -88,6 +88,7 @@ Aqui estão alguns dos meus repositórios mais relevantes e que geram engajament
   <a href="https://github.com/GuilhermeM070/Design-Patterns-II" target="_blank">
     <img src="https://img.shields.io/badge/Design Patterns II-purple?style=for-the-badge&logo=java&logoColor=white" alt="Design Patterns II"/>
   </a>
+  
 ---
 
 🔍 **Explore meus repositórios para mais projetos e contribuições!**
