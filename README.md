@@ -8,9 +8,9 @@
 
 ## About Me
 <p align="center">
-  <img src="https://img.shields.io/badge/IA-6A1B9A?style=flat-square&logo=&logoColor=white" alt="IA Badge">
+  <img src="https://img.shields.io/badge/Artificial Intelligence-6A1B9A?style=flat-square&logo=&logoColor=white" alt="IA Badge">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge">
-  <img src="https://img.shields.io/badge/Tensor Flow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow Badge">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow Badge">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript Badge">
   <img src="https://img.shields.io/badge/Java-FF5722?style=flat-square&logo=java&logoColor=white" alt="Java Badge">
 </p>
