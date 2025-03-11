@@ -60,8 +60,8 @@
 Aqui estão alguns dos meus repositórios mais relevantes e que geram engajamento:
 
 <p align="center">
-  <!-- Repositório Projetos Python DIO -->
-  <a href="[https://github.com/GuilhermeM070/Projetos-Python-DIO" target="_blank">
+  <!-- Repositório Projetos Python -->
+  <a href="https://github.com/GuilhermeM070/Projetos-Python" target="_blank">
     <img src="https://img.shields.io/badge/Projetos--Python--blue?style=for-the-badge&logo=python&logoColor=white" alt="Projetos Python"/>
   </a>
   <!-- Repositório Deep Learning -->
@@ -69,12 +69,12 @@ Aqui estão alguns dos meus repositórios mais relevantes e que geram engajament
     <img src="https://img.shields.io/badge/Deep--Learning-red?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"/>
   </a>
   <!-- Repositório Projeto Java DIO -->
-  <a href="https://github.com/GuilhermeM070/ProjetoJavaDIO._" target="_blank">
+  <a href="https://github.com/GuilhermeM070/ProjetoJavaDIO" target="_blank">
     <img src="https://img.shields.io/badge/Projeto--Java--DIO-black?style=for-the-badge&logo=java&logoColor=white" alt="Projeto Java"/>
   </a>
   <!-- Repositório Artigo sobre Web3 e Blockchain -->
   <a href="https://github.com/GuilhermeM070/Artigo_Neural_Networks_Blockchain" target="_blank">
-    <img src="https://img.shields.io/badge/Artigo-Web3-e-Blockchain-green?style=for-the-badge&&logoColor=white" alt="Artigo"/>
+    <img src="https://img.shields.io/badge/Artigo--Web3--e--Blockchain-white?style=for-the-badge&&logoColor=black" alt="Artigo"/>
   </a>
   <!-- Repositório Projeto Node.js ChatGPT -->
   <a href="https://github.com/GuilhermeM070/Projeto_Node.js_ChatGPT" target="_blank">
