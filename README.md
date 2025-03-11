@@ -64,10 +64,6 @@ Aqui estão alguns dos meus repositórios mais relevantes e que geram engajament
   <a href="https://github.com/GuilhermeM070/Projetos-Python" target="_blank">
     <img src="https://img.shields.io/badge/Projetos Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Projetos Python"/>
   </a>
-  <!-- Repositório Deep Learning -->
-  <a href="https://github.com/GuilhermeM070/Deep-Learning" target="_blank">
-    <img src="https://img.shields.io/badge/Deep Learning-00AEEF?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"/>
-  </a>
   <!-- Repositório Projeto Java DIO -->
   <a href="https://github.com/GuilhermeM070/ProjetoJavaDIO" target="_blank">
     <img src="https://img.shields.io/badge/Projetos Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Projeto Java"/>
@@ -79,6 +75,10 @@ Aqui estão alguns dos meus repositórios mais relevantes e que geram engajament
   <!-- Repositório Projeto Node.js ChatGPT -->
   <a href="https://github.com/GuilhermeM070/Projeto_Node.js_ChatGPT" target="_blank">
     <img src="https://img.shields.io/badge/Projeto Node.js ChatGPT-green?style=for-the-badge&logo=javascript&logoColor=white" alt="Projeto Node.js ChatGPT"/>
+  </a>
+   <!-- Repositório Deep Learning -->
+  <a href="https://github.com/GuilhermeM070/Deep-Learning" target="_blank">
+    <img src="https://img.shields.io/badge/Deep Learning-00AEEF?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"/>
   </a>
   <!-- Repositório Design Patterns -->
   <a href="https://github.com/GuilhermeM070/Design_Patterns" target="_blank">
