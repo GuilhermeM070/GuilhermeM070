@@ -61,7 +61,7 @@ Aqui estão alguns dos meus repositórios mais relevantes e que geram engajament
 
 <p align="center">
   <!-- Repositório Projetos Python DIO -->
-  <a href="[https://github.com/GuilhermeM070/Projetos-Python-DIO._]" target="_blank">
+  <a href="[https://github.com/GuilhermeM070/Projetos-Python-DIO" target="_blank">
     <img src="https://img.shields.io/badge/Projetos--Python--blue?style=for-the-badge&logo=python&logoColor=white" alt="Projetos Python"/>
   </a>
   <!-- Repositório Deep Learning -->
@@ -74,7 +74,7 @@ Aqui estão alguns dos meus repositórios mais relevantes e que geram engajament
   </a>
   <!-- Repositório Artigo sobre Web3 e Blockchain -->
   <a href="https://github.com/GuilhermeM070/Artigo_Neural_Networks_Blockchain" target="_blank">
-    <img src="https://img.shields.io/badge/Artigo-Web3-e-Blockchain-green?style=for-the-badge&&logoColor=white" alt="Artigo sobre Web3 e Blockchain"/>
+    <img src="https://img.shields.io/badge/Artigo-Web3-e-Blockchain-green?style=for-the-badge&&logoColor=white" alt="Artigo"/>
   </a>
   <!-- Repositório Projeto Node.js ChatGPT -->
   <a href="https://github.com/GuilhermeM070/Projeto_Node.js_ChatGPT" target="_blank">
