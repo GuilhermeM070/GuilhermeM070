@@ -61,8 +61,8 @@ Aqui estão alguns dos meus repositórios mais relevantes e que geram engajament
 
 <p align="center">
   <!-- Repositório Projetos Python DIO -->
-  <a href="https://github.com/GuilhermeM070/Projetos-Python-DIO._" target="_blank">
-    <img src="https://img.shields.io/badge/Projetos--Python--DIO-blue?style=for-the-badge&logo=python&logoColor=white" alt="Projetos Python DIO"/>
+  <a href="[https://github.com/GuilhermeM070/Projetos-Python-DIO._]" target="_blank">
+    <img src="https://img.shields.io/badge/Projetos--Python--blue?style=for-the-badge&logo=python&logoColor=white" alt="Projetos Python"/>
   </a>
   <!-- Repositório Deep Learning -->
   <a href="https://github.com/GuilhermeM070/Deep-Learning" target="_blank">
@@ -70,22 +70,24 @@ Aqui estão alguns dos meus repositórios mais relevantes e que geram engajament
   </a>
   <!-- Repositório Projeto Java DIO -->
   <a href="https://github.com/GuilhermeM070/ProjetoJavaDIO._" target="_blank">
-    <img src="https://img.shields.io/badge/Projeto--Java--DIO-orange?style=for-the-badge&logo=java&logoColor=white" alt="Projeto Java DIO"/>
+    <img src="https://img.shields.io/badge/Projeto--Java--DIO-black?style=for-the-badge&logo=java&logoColor=white" alt="Projeto Java"/>
   </a>
-  <!-- Repositório Desafio Felipao -->
-  <a href="https://github.com/GuilhermeM070/desafio-felipao" target="_blank">
-    <img src="https://img.shields.io/badge/Desafio--Felipao-yellow?style=for-the-badge&logo=java&logoColor=white" alt="Desafio Felipao"/>
+  <!-- Repositório Artigo sobre Web3 e Blockchain -->
+  <a href="https://github.com/GuilhermeM070/Artigo_Neural_Networks_Blockchain" target="_blank">
+    <img src="https://img.shields.io/badge/Artigo-Web3-e-Blockchain-green?style=for-the-badge&&logoColor=white" alt="Artigo sobre Web3 e Blockchain"/>
+  </a>
+  <!-- Repositório Projeto Node.js ChatGPT -->
+  <a href="https://github.com/GuilhermeM070/Projeto_Node.js_ChatGPT" target="_blank">
+    <img src="https://img.shields.io/badge/Projeto_Node.js_ChatGPT-blue?style=for-the-badge&logo=javascript&logoColor=white" alt="Projeto Node.js ChatGPT"/>
+  </a>
+  <!-- Repositório Design Patterns -->
+  <a href="https://github.com/GuilhermeM070/Design_Patterns" target="_blank">
+    <img src="https://img.shields.io/badge/Design--Patterns-purple?style=for-the-badge&logo=java&logoColor=white" alt="Design Patterns"/>
   </a>
   <!-- Repositório Design Patterns II -->
   <a href="https://github.com/GuilhermeM070/Design-Patterns-II" target="_blank">
     <img src="https://img.shields.io/badge/Design--Patterns--II-purple?style=for-the-badge&logo=java&logoColor=white" alt="Design Patterns II"/>
   </a>
-  <!-- Repositório TGID -->
-  <a href="https://github.com/GuilhermeM070/TGID" target="_blank">
-    <img src="https://img.shields.io/badge/TGID-orange?style=for-the-badge&logo=python&logoColor=white" alt="TGID"/>
-  </a>
-</p>
-
 ---
 
 🔍 **Explore meus repositórios para mais projetos e contribuições!**
