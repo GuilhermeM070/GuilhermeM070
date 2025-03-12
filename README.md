@@ -64,10 +64,6 @@ Aqui estão alguns dos meus repositórios mais relevantes e que geram engajament
   <a href="https://github.com/GuilhermeM070/Projetos-Python" target="_blank">
     <img src="https://img.shields.io/badge/Projetos Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Projetos Python"/>
   </a>
-  <!-- Repositório Projeto Java DIO -->
-  <a href="https://github.com/GuilhermeM070/ProjetoJavaDIO" target="_blank">
-    <img src="https://img.shields.io/badge/Projetos Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Projeto Java"/>
-  </a>
   <!-- Repositório Artigo sobre Web3 e Blockchain -->
   <a href="https://github.com/GuilhermeM070/Artigo_Neural_Networks_Blockchain" target="_blank">
     <img src="https://img.shields.io/badge/Artigo Web3 e Blockchain-white?style=for-the-badge&&logoColor=black" alt="Artigo"/>
