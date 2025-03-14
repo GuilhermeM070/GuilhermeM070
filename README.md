@@ -55,7 +55,7 @@
 
 ---
 
-## 📂 **Repositórios em Destaque** 🔥
+## 📂 **Repositories** 🔥
 
 Aqui estão alguns dos meus repositórios mais relevantes e que geram engajamento:
 
