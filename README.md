@@ -14,7 +14,7 @@
 </p>
 
 - 💻 **Full Stack Developer** specialized in **Java, Python, and JavaScript**.
-- 🚀 Experienced in **Spring Boot, Angular, and REST API development**.
+- 🚀 Experienced in **Spring Boot, Angular, and TensorFlow development**.
 - 🔬 Passionate about **Machine Learning and Deep Learning**.
 - 🏗 Skilled in **design patterns**, **scalable architectures**, and **high-performance applications**.
 - 🏋️ Jiu-Jitsu & Bodybuilding | Discipline inside and outside the code.
