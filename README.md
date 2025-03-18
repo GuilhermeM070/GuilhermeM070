@@ -57,7 +57,7 @@
 
 ## 📂 **Repositories** 🔥
 
-Aqui estão alguns dos meus repositórios mais relevantes e que geram engajamento:
+Here are some of my most relevant and engaging repositories:
 
 <p align="center">
   <!-- Repositório Projetos Python -->
@@ -87,7 +87,7 @@ Aqui estão alguns dos meus repositórios mais relevantes e que geram engajament
   
 ---
 
-🔍 **Explore meus repositórios para mais projetos e contribuições!**
+🔍 **Explore my repositories for more projects and contributions!**
 
 ---
 
