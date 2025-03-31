@@ -2,7 +2,7 @@
 <img
       src = "./docs/assets/BladeRunner.png"
       alt = "TrantorFinance"
-      width = "600"
+      width = "770"
       height = "290"
    />
    </br>
