@@ -3,7 +3,7 @@
       src = "./docs/assets/BladeRunner.png"
       alt = "TrantorFinance"
       width = "770"
-      height = "290"
+      height = "330"
    />
    </br>
 Guilherme Matos 🚀 | Full Stack Developer
