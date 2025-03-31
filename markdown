@@ -3,7 +3,7 @@
       src = "./docs/assets/DataScience.png"
       alt = "TrantorFinance"
       width = "800"
-      height = "500"
+      height = "400"
    />
    </br>
 Guilherme Matos 🚀 | Full Stack Developer
