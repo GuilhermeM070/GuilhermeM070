@@ -1,9 +1,9 @@
 <h1 align="center">
 <img
-      src = "./docs/assets/Perfil.png"
+      src = "./docs/assets/Gui - Perfil.png"
       alt = "TrantorFinance"
-      width = "350"
-      height = "350"
+      width = "1050"
+      height = "750"
    />
    </br>
 Full Stack Developer
