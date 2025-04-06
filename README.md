@@ -2,8 +2,8 @@
 <img
       src = "./docs/assets/Gui - Perfil.png"
       alt = "TrantorFinance"
-      width = "950"
-      height = "750"
+      width = "1050"
+      height = "700"
    />
    </br>
 Full Stack Developer
