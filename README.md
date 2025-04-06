@@ -2,7 +2,7 @@
 <img
       src = "./docs/assets/Gui - Perfil.png"
       alt = "TrantorFinance"
-      width = "1050"
+      width = "950"
       height = "750"
    />
    </br>
