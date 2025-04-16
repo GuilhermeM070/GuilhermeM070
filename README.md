@@ -1,10 +1,10 @@
 <h1 align="center">
-<img
-      src = "./docs/assets/Gui - Perfil.png"
+<!--<img
+      src = "./docs/assets/"
       alt = "TrantorFinance"
       width = "1050"
-      height = "700"
-   />
+      height = "450"
+   />-->
    </br>
 Full Stack Developer
 </h1>
