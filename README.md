@@ -22,19 +22,10 @@ Full Stack Developer
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript Badge">
 </p>
 <p align="center">
-- 💻 <Strong>Full Stack Developer</Strong> specialized in <Strong>Java, Python, and JavaScript</Strong>.
+- 💻 <Strong>Full Stack Developer</Strong> in <Strong>Java, Python, and Typescript</Strong>.
 </p>
 <p align="center">
-- 🚀 Experienced in <Strong>Spring Boot, Angular, and TensorFlow development</Strong>.
-</p>
-<p align="center">
-- 🔬 Passionate about <Strong>Machine Learning and Deep Learning</Strong>.
-</p>
-<p align="center">
-- 🏗 Skilled in <Strong>design patterns</Strong>, <Strong>scalable architectures</Strong>, and <Strong>high-performance applications</Strong>.
-</p>
-<p align="center">
-- 🏋️ Jiu-Jitsu & Bodybuilding | Discipline inside and outside the code.
+- 🚀 Experienced in <Strong>Spring Boot, React, Flask and Django</Strong>.
 </p>
 <p align="center">
 - 📖 <Strong>Science Fiction Fan</Strong> | Inspired by Asimov and intergalactic worlds.
@@ -57,12 +48,12 @@ Full Stack Developer
 </h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
-  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=Java&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=Typescript&logoColor=blue" alt="Typescript">
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript">
   <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS">
-  <img src="https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js"/>
-  <img src="https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=DD0031" alt="Angular">
+  <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS">
+  <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React"/>
   <img src="https://img.shields.io/badge/Spring_Boot-black?style=for-the-badge&logo=spring-boot&logoColor=6DB33F" alt="Spring Boot">
 </p>
 
@@ -89,7 +80,7 @@ Full Stack Developer
 
 
 <h2 align="center">
-  <Strong>📂 Repositories 🔥</Strong>
+  @<Strong>📂 Repositories 🔥</Strong>
 </h2>
 <p align="center">
 <span style="text-transform: uppercase;">Here are some of my most relevant and engaging repositories:</span>
@@ -106,18 +97,6 @@ Full Stack Developer
   <!-- Repositório Projeto Node.js ChatGPT -->
   <a href="https://github.com/GuilhermeM070/Projeto_Node.js_ChatGPT" target="_blank">
     <img src="https://img.shields.io/badge/Projeto Node.js ChatGPT-black?style=for-the-badge&logo=Node.js&logoColor=green" alt="Projeto Node.js ChatGPT"/>
-  </a>
-   <!-- Repositório Deep Learning -->
-  <a href="https://github.com/GuilhermeM070/Deep-Learning" target="_blank">
-    <img src="https://img.shields.io/badge/Deep Learning-black?style=for-the-badge&logo=tensorflow&logoColor=00AEEF" alt="Deep Learning"/>
-  </a>
-  <!-- Repositório Design Patterns -->
-  <a href="https://github.com/GuilhermeM070/Design_Patterns" target="_blank">
-    <img src="https://img.shields.io/badge/Design Patterns-black?style=for-the-badge&logo=java&logoColor=purple" alt="Design Patterns"/>
-  </a>
-  <!-- Repositório Design Patterns II -->
-  <a href="https://github.com/GuilhermeM070/Design-Patterns-II" target="_blank">
-    <img src="https://img.shields.io/badge/Design Patterns II-black?style=for-the-badge&logo=java&logoColor=purple" alt="Design Patterns II"/>
   </a>
 <p align="center">
 <span style="text-transform: uppercase;"🔍 <Strong>Explore my repositories for more projects and contributions!</Strong></span>
@@ -161,10 +140,10 @@ Full Stack Developer
 </h2>
 <p align="center">
   <a href="mailto:guimatos070@gmail.com">
-    <img src="https://img.shields.io/badge/Email-guimatos070%40gmail.com-black?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email Badge">
+    <img src="https://img.shields.io/badge/Email-guimatos070%40gmail.com-pink?style=for-the-badge&logo=gmail&logoColor=red" alt="Email Badge">
   </a>
   <a href="https://www.linkedin.com/in/guilherme-matos-413400200">
-    <img src="https://img.shields.io/badge/LinkedIn-Guilherme%20Matos-black?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge">
+    <img src="https://img.shields.io/badge/LinkedIn-Guilherme%20Matos-blue?style=for-the-badge&logo=Linkdln&logoColor=blue" alt="LinkdIn Badge">
   </a>
 </p>
 
