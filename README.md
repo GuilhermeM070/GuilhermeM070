@@ -1,173 +1,127 @@
-<h1 align="center">
-<!--<img
-      src = "./docs/assets/"
-      alt = "TrantorFinance"
-      width = "1050"
-      height = "450"
-   />-->
-   </br>
-Full Stack Developer
-</h1>
+<div align="center">
+<img src="github-header-banner.png" align="center" height="" width="600" />
+</div>  
+  
+
+### <div align="center">I'm Guilherme, FullStack Developer Freelancer 👨‍💻 working remotely since 2022 🚀 </div>
+  
 
 
-<h2 align="center">
-  <em>Welcome to my space 🚀</em> 
-  <br>
-  <br>
-  <em><strong>Welcome to my GitHub profile.</strong></em>
-</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
-  <img src="https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow&logoColor=orange" alt="TensorFlow Badge">
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript Badge">
-</p>
-<p align="center">
-- 💻 <Strong>Full Stack Developer</Strong> specialized in <Strong>Java, Python, and JavaScript</Strong>.
-</p>
-<p align="center">
-- 🚀 Experienced in <Strong>Spring Boot, Angular, and TensorFlow development</Strong>.
-</p>
-<p align="center">
-- 🔬 Passionate about <Strong>Machine Learning and Deep Learning</Strong>.
-</p>
-<p align="center">
-- 🏗 Skilled in <Strong>design patterns</Strong>, <Strong>scalable architectures</Strong>, and <Strong>high-performance applications</Strong>.
-</p>
-<p align="center">
-- 🏋️ Jiu-Jitsu & Bodybuilding | Discipline inside and outside the code.
-</p>
-<p align="center">
-- 📖 <Strong>Science Fiction Fan</Strong> | Inspired by Asimov and intergalactic worlds.
-</p>
-<p align="center">
-- 🌱 <Strong>Continuous Learning</Strong> | Bootcamps and advanced technology courses.
-</p>
-<p align="center">
-- 📚 Always improving my skills and knowledge!
-</p>
+- 🔭 I’m currently working on [99Freelas.](https://www.99freelas.com.br/user/DevGuilMatos)  
+  
+
+- 🌱 I’m currently learning Machine Learning and IA Libs, LangChain, LangGraph, CrewAI...  
+  
+
+- ⚡ Fun fact: I love reading science fiction books.
+ 
+
+![]()  
+  
+
+<br/>  
 
 
-<h1 align="center">
-  <em>🛠️ Technology Stack</em>
-</h1>
+## <div align="center">My Skill Set</div>  
+<table align="center"><tr><td valign="top" width="33%">
 
 
-<h2 align="center">
-  <Strong>Languages & Frameworks</Strong>
-</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
-  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS">
-  <img src="https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js"/>
-  <img src="https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=DD0031" alt="Angular">
-  <img src="https://img.shields.io/badge/Spring_Boot-black?style=for-the-badge&logo=spring-boot&logoColor=6DB33F" alt="Spring Boot">
-</p>
+
+### <div align="center">Frontend</div>  
+<div align="center">  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
 
 
-<h2 align="center">
-  <Strong>Databases</Strong>
-</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL">
-  <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB">
-  <img src="https://img.shields.io/badge/NoSQL-black?style=for-the-badge&logo=nosql&logoColor=green" alt="NoSQL">
-</p>
+
+### <div align="center">BackEnd</div>  
+<div align="center">  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
+<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
 
 
-<h2 align="center">
-  <Strong>Tools & DevOps</Strong>
-</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=vscode&logoColor=007ACC" alt="VSCode">
-  <img src="https://img.shields.io/badge/Maven-black?style=for-the-badge&logo=apache-maven&logoColor=C71A36" alt="Maven">
-</p>
+
+### <div align="center">DevOps</div>  
+<div align="center">  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
 
 
-<h2 align="center">
-  <Strong>📂 Repositories 🔥</Strong>
-</h2>
-<p align="center">
-<span style="text-transform: uppercase;">Here are some of my most relevant and engaging repositories:</span>
-</p>
-<p align="center">
-  <!-- Repositório Projetos Python -->
-  <a href="https://github.com/GuilhermeM070/Projetos-Python" target="_blank">
-    <img src="https://img.shields.io/badge/Projetos Python-black?style=for-the-badge&logo=python&logoColor=blue" alt="Projetos Python"/>
-  </a>
-  <!-- Repositório Artigo sobre Web3 e Blockchain -->
-  <a href="https://github.com/GuilhermeM070/Artigo_Neural_Networks_Blockchain" target="_blank">
-    <img src="https://img.shields.io/badge/Artigo Web3 e Blockchain-black?style=for-the-badge&&logoColor=white" alt="Artigo"/>
-  </a>
-  <!-- Repositório Projeto Node.js ChatGPT -->
-  <a href="https://github.com/GuilhermeM070/Projeto_Node.js_ChatGPT" target="_blank">
-    <img src="https://img.shields.io/badge/Projeto Node.js ChatGPT-black?style=for-the-badge&logo=Node.js&logoColor=green" alt="Projeto Node.js ChatGPT"/>
-  </a>
-   <!-- Repositório Deep Learning -->
-  <a href="https://github.com/GuilhermeM070/Deep-Learning" target="_blank">
-    <img src="https://img.shields.io/badge/Deep Learning-black?style=for-the-badge&logo=tensorflow&logoColor=00AEEF" alt="Deep Learning"/>
-  </a>
-  <!-- Repositório Design Patterns -->
-  <a href="https://github.com/GuilhermeM070/Design_Patterns" target="_blank">
-    <img src="https://img.shields.io/badge/Design Patterns-black?style=for-the-badge&logo=java&logoColor=purple" alt="Design Patterns"/>
-  </a>
-  <!-- Repositório Design Patterns II -->
-  <a href="https://github.com/GuilhermeM070/Design-Patterns-II" target="_blank">
-    <img src="https://img.shields.io/badge/Design Patterns II-black?style=for-the-badge&logo=java&logoColor=purple" alt="Design Patterns II"/>
-  </a>
-<p align="center">
-<span style="text-transform: uppercase;"🔍 <Strong>Explore my repositories for more projects and contributions!</Strong></span>
-</p>
+## <div align="center">Connect with me</div>  
+<div align="center">
+<a href="https://github.com/GuilhermeM070" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/Guilherme Matos" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/_guilmatos.dv" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
 
 
-<h2 align="center">
-  <Strong>📊 GitHub Stats</Strong>
-</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeMatos&show_icons=true&theme=tokyonight" alt="Guilherme's GitHub Stats">
-</p>
+## <div align="center">Github Stats</div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GuilhermeM070&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
 
 
-<h2 align="center">
-  <Strong>🔥 Most Used Languages</Strong>
-</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMatos&layout=compact&theme=tokyonight" alt="Top Languages">
-</p>
+## <div align="center">Recent Blog Posts</div>  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
 
+<br/>  
 
-<h2 align="center">
-  <Strong>🏆 GitHub Trophies</Strong>
-</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GuilhermeMatos&theme=darkhub" alt="GitHub Trophies">
-</p>
+  
 
+<br/>  
 
-<h2 align="center">
-  <Strong>💡 Random Dev Quote</Strong>
-</h2>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote">
-</p>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=GuilhermeM070&&style=flat-square" align="center" />
+</div>  
+  
 
+<br/>  
 
-<h2 align="center">
-  <Strong>📬 Contact Me</Strong>
-</h2>
-<p align="center">
-  <a href="mailto:guimatos070@gmail.com">
-    <img src="https://img.shields.io/badge/Email-guimatos070%40gmail.com-black?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email Badge">
-  </a>
-  <a href="https://www.linkedin.com/in/guilherme-matos-413400200">
-    <img src="https://img.shields.io/badge/LinkedIn-Guilherme%20Matos-black?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge">
-  </a>
-</p>
+<div align="center"></div>
+<br />
 
-<p align="center">
-  <span style="text-transform: uppercase;"<Strong>🔥 Let’s build something amazing together! 🚀</Strong></span>
-</p>
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
