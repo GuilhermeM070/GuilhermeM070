@@ -1,5 +1,5 @@
 <div align="center">
- <img width="1000px" src="docs/assets/github-header-banner.png" align="center" alt="GitHub Readme Stats" />
+ <img width="1000px" src="docs/assets/github-header-banner.png" align="center" alt="Logo - Capa" />
 </div></br>
 
 
@@ -39,7 +39,7 @@ Because tech is powerful… but it gets even better when we grow together.
 
 
 ## My Features 
-<table><tr><td valign="top" width="50%">
+
 
 - 🔭 I’m working on [99Freelas](https://www.99freelas.com.br/user/DevGuilMatos)  
   
@@ -49,13 +49,7 @@ Because tech is powerful… but it gets even better when we grow together.
 
 - ⚡ Fun fact: I keep night reading science fiction books  
 
-
-</td><td valign="top" width="50%">
-
-<img src="https://pin.it/6WR81Anof" align="left" style="width: 100%" />  
-
-
-</td></tr></table>  
+ 
 
 <br/>  
 
