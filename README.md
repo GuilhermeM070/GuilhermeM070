@@ -104,8 +104,8 @@ Because tech is powerful… but it gets even better when we grow together.
 
 <br/>  
 
+
 ![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
-  
 
 <br/>  
 
